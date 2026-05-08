@@ -94,4 +94,4 @@ Each customer segment discovered by the model represents a distinct personality 
  
 ## Author
  
-**epruitt** — [github.com/epruitt](https://github.com/epruitt)
+**Emanuel Pruitt** — [github.com/epruitt](https://github.com/epruitt)
